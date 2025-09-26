@@ -1,2 +1,1 @@
-# ESP32 OTA Demo
-First commit
+# ESP32 OTA
